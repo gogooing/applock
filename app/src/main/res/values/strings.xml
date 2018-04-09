@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppLockTest</string>
+
+    <!-- MainActivity -->
+    <string name="main_tv_text_input_web">请输入网址</string>
+    <string name="main_btn_text_resolve">解析</string>
+
+    <string name="main_toast_web_null">请输入需要解析的网址。</string>
+    <string name="main_toast_web_check_error">网址格式错误。</string>
+    <string name="main_toast_resolve_error">解析错误,请重试。</string>
+
+    <string name="main_toast_get_data_api_error">获取API数据失败，请重试。</string>
+    <string name="main_toast_get_data_api_ok">获取API数据成功。</string>
+
+    <string name="main_title_title_text">解析页</string>
+    <string name="list_title_title_text">汇率页</string>
+    <string name="list_title_title_text_name">汇率页(%1$s)</string>
+    <string name="list_title_right_text">刷新</string>
+
+
+</resources>
